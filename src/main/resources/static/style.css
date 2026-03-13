@@ -1,0 +1,37 @@
+
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    background-color: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: yellowgreen;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a:hover {
+    color: red;
+}
